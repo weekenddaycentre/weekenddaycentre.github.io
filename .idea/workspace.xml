@@ -4,9 +4,6 @@
     <list default="true" id="aa9d11c0-5bd8-496a-8bae-0732096e9d01" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/page-footer.html" afterPath="$PROJECT_DIR$/_includes/page-footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/stylesheets/stylesheet.css" afterPath="$PROJECT_DIR$/_site/stylesheets/stylesheet.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/stylesheet.css" afterPath="$PROJECT_DIR$/stylesheets/stylesheet.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="weekenddaycentre.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -69,11 +66,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page-footer.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="page-footer.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/page-footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="390">
-              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.021613833" vertical-offset="0" max-vertical-offset="694">
+              <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#td#0;n#tr#0;n#table#0;n#footer#0;n#!!top" expanded="true" />
               </folding>
@@ -91,10 +88,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stylesheet.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="stylesheet.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stylesheets/stylesheet.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4680851" vertical-offset="4110" max-vertical-offset="5085">
+            <state vertical-scroll-proportion="-151.73077" vertical-offset="495" max-vertical-offset="5085">
               <caret line="296" column="20" selection-start-line="296" selection-start-column="20" selection-end-line="296" selection-end-column="20" />
               <folding />
             </state>
@@ -142,8 +139,8 @@
         <option value="$PROJECT_DIR$/_site/index.html" />
         <option value="$PROJECT_DIR$/_includes/menu.html" />
         <option value="$PROJECT_DIR$/_layouts/base.html" />
-        <option value="$PROJECT_DIR$/_includes/page-footer.html" />
         <option value="$PROJECT_DIR$/stylesheets/stylesheet.css" />
+        <option value="$PROJECT_DIR$/_includes/page-footer.html" />
       </list>
     </option>
   </component>
@@ -672,12 +669,12 @@
       <changelist id="aa9d11c0-5bd8-496a-8bae-0732096e9d01" name="Default" comment="" />
       <created>1452719086265</created>
       <updated>1452719086265</updated>
-      <workItem from="1452719086992" duration="7499000" />
+      <workItem from="1452719086992" duration="7630000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7499000" />
+    <option name="totallyTimeSpent" value="7630000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="874" extended-state="6" />
@@ -800,21 +797,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/page-footer.html">
+    <entry file="file://$PROJECT_DIR$/stylesheets/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="390">
-          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#td#0;n#tr#0;n#table#0;n#footer#0;n#!!top" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="-151.73077" vertical-offset="495" max-vertical-offset="5085">
+          <caret line="296" column="20" selection-start-line="296" selection-start-column="20" selection-end-line="296" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/stylesheet.css">
+    <entry file="file://$PROJECT_DIR$/_includes/page-footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4680851" vertical-offset="4110" max-vertical-offset="5085">
-          <caret line="296" column="20" selection-start-line="296" selection-start-column="20" selection-end-line="296" selection-end-column="20" />
-          <folding />
+        <state vertical-scroll-proportion="0.021613833" vertical-offset="0" max-vertical-offset="694">
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#td#0;n#tr#0;n#table#0;n#footer#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
