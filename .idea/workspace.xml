@@ -69,11 +69,9 @@
       <file leaf-file-name="page-footer.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/page-footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.021613833" vertical-offset="0" max-vertical-offset="694">
-              <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
-              <folding>
-                <element signature="n#style#0;n#iframe#0;n#td#0;n#tr#0;n#table#0;n#footer#0;n#!!top" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.43227667" vertical-offset="0" max-vertical-offset="694">
+              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -669,12 +667,12 @@
       <changelist id="aa9d11c0-5bd8-496a-8bae-0732096e9d01" name="Default" comment="" />
       <created>1452719086265</created>
       <updated>1452719086265</updated>
-      <workItem from="1452719086992" duration="7630000" />
+      <workItem from="1452719086992" duration="7704000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7630000" />
+    <option name="totallyTimeSpent" value="7704000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="874" extended-state="6" />
@@ -807,11 +805,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/page-footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.021613833" vertical-offset="0" max-vertical-offset="694">
-          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#td#0;n#tr#0;n#table#0;n#footer#0;n#!!top" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.43227667" vertical-offset="0" max-vertical-offset="694">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
