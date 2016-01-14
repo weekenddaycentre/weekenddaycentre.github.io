@@ -15,7 +15,7 @@ body {
 
 a {
   color: #1e6bb8;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a:hover {
@@ -96,6 +96,11 @@ a:hover {
 }
 
 /* Menu */
+
+.menu a {
+  color: #1e6bb8;
+  text-decoration: none;
+}
 
 .menu {
   border: 2px solid #eff0f1;
