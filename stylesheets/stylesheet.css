@@ -27,10 +27,40 @@ a:hover {
   height: 500px;
 }
 
+.social table {
+  overflow: auto;
+  word-break: normal;
+  word-break: keep-all;
+  border-collapse: collapse;
+  border-spacing: 0;
+  border: hidden;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.social table, .social th, .social td {
+  padding: 0.5rem 1rem;
+}
+
+.social td, .social th {
+  vertical-align: top;
+  border: hidden;
+}
+
+@media screen and (min-width: 42em) and (max-width: 64em) {
+  .social td {
+    display: block;
+  }
+}
+
 @media screen and (max-width: 42em) {
   .video iframe {
     width: 250px;
     height: 220px;
+  }
+
+  .social td {
+    display: block;
   }
 }
 
