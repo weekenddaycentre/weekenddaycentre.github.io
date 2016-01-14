@@ -22,6 +22,25 @@ a:hover {
   text-decoration: underline;
 }
 
+.video iframe {
+  width: 800px;
+  height: 500px;
+}
+
+@media screen and (min-width: 42em) and (max-width: 64em) {
+  .video iframe {
+    width: 500px;
+    height: 350px;
+  }
+}
+
+@media screen and (max-width: 42em) {
+  .video iframe {
+    width: 250px;
+    height: 220px;
+  }
+}
+
 /* Header */
 
 .page-header {
