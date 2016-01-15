@@ -1,0 +1,2 @@
+# weekenddaycentre.github.io
+The Weekend Day Centre provides an informal weekend and bank holiday care facility for people with a formal diagnosis of dementia and their carers within the Stockport borough, including Marple.
