@@ -346,24 +346,11 @@ a:hover {
   color: black;
 }
 
-.site-footer table {
-  overflow: auto;
-  word-break: normal;
-  word-break: keep-all;
-  border-collapse: collapse;
-  border-spacing: 0;
-  border: hidden;
+.columns-container {
+  position: relative;
+  width: 100%;
   margin-left: auto;
   margin-right: auto;
-}
-
-.site-footer table, .site-footer th, .site-footer td {
-  padding: 0.5rem 1rem;
-}
-
-.site-footer td, .site-footer th {
-  vertical-align: top;
-  border: hidden;
 }
 
 .map iframe {
@@ -372,14 +359,35 @@ a:hover {
 }
 
 @media screen and (min-width: 64em) {
+  .columns-container {
+    max-width: 64rem;
+    padding: 2rem 6rem;
+    margin: 0 auto;
+  }
+
   .site-footer {
     font-size: 1rem;
+  }
+}
+
+@media screen and (min-width: 47.5em ) {
+  .right-column {
+    margin-top: 2rem;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 22em;
   }
 }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .site-footer {
     font-size: 1rem;
+  }
+
+  .columns-container {
+    padding: 2rem 4rem;
+    margin: 0 auto;
   }
 
   .map iframe {
@@ -393,8 +401,9 @@ a:hover {
     font-size: 0.9rem;
   }
 
-  .site-footer td {
-    display: block;
+  .columns-container {
+    padding: 2rem 1rem;
+    margin: 0 auto;
   }
 
   .map iframe {
